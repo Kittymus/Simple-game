@@ -1,0 +1,21 @@
+{
+    "#start_button":
+    {
+        "prototype": "#image_button",
+        "images":
+        {
+            "normal_image":
+            {
+                "path": "Buttons/start.png"
+            },
+            "hovered_image":
+            {
+                "path": "Buttons/start_hover.png"
+            },
+            "selected_image":
+            {
+                "path": "Buttons/start_hover.png"
+            }
+        }
+    }
+}
